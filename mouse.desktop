@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=mouse
+Exec=antixccmouse.sh
+Icon=input-mouse
+Terminal=false
+Type=Application
+Categories=Settings;
+NoDisplay=True

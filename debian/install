@@ -1,0 +1,5 @@
+mouse.desktop   /usr/share/applications/antix
+changelog.gz    /usr/share/doc/mouse-cc-antix
+copyright       /usr/share/doc/mouse-cc-antix
+bin/*           /usr/local/bin
+locale/*        /usr/share/locale

@@ -1,0 +1,63 @@
+mouse-cc-antix (0.1.9) unstable; urgency=low
+ 
+  * Removed hard-coded defaults 
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 19 Jun 2015 12:28:00 +0200
+
+
+mouse-cc-antix (0.1.8) unstable; urgency=low
+ 
+  * Removed hard-coded icon path
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 03 Apr 2015 23:04:00 +0200
+
+
+mouse-cc-antix (0.1.7) unstable; urgency=low
+ 
+  * Corrected .desktop icon path
+
+ -- anticapitalista <antiX@operamail.com>  Mon, 02 Feb 2015 18:45:00 +0200
+
+
+mouse-cc-antix (0.1.6) unstable; urgency=low
+ 
+  * New icon theme
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 27 Dec 2014 14:50:00 +0200
+
+
+mouse-cc-antix (0.1.5) unstable; urgency=low
+ 
+  * Packaged using dpkg-buildpackage.
+  * xz compressed deb.
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 19 Oct 2013 15:00:00 +0200
+
+
+mouse-cc-antix (0.1.4) unstable; urgency=low
+ 
+  * Fixed ownership bug.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 26 August 2012 15:40:00 +0200
+
+
+mouse-cc-antix (0.1.3) unstable; urgency=low 
+ 
+  * Added copyright notice.
+
+ -- anticapitalista <antiX@operamail.com> Mon, 16 July 2012 15:30:00 +0200
+
+
+mouse-cc-antix (0.1.2) unstable; urgency=low 
+ 
+  * Altered for /bin/bash.
+
+ -- anticapitalista <antiX@operamail.com>  Tues, 10 July 2012 18:30:00 +0200
+
+
+mouse-cc-antix (0.1.1) unstable; urgency=low 
+ 
+  * Initial Release.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 29 January 2012 15:30:00 +0200
+
